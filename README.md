@@ -54,7 +54,8 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://samsyntax.dev/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" style="border-radius: 6px;" alt="website logo" />  </a>
+<img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" style="border-radius: 6px;" alt="website logo" />  
+  </a>
 </div>
 
 ###
