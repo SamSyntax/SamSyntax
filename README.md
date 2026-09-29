@@ -43,11 +43,12 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://bsky.app/profile/samsyntax.bsky.social" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
+  </a>
+  <a href="https://x.com/SamSyntax_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -60,9 +61,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
 ###
