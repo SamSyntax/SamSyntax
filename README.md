@@ -1,4 +1,8 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">Hi there 👋</h1>
+
+###
+
+<p data-importer="text" align="left">I'm a full-stack software engineer and systems tinkerer who loves digging deep into backend architecture, infrastructure, and automation. Whether I'm building custom servers, distributed systems, or high-performance APIs, I enjoy understanding how things work right down to the metal. I focus on clean code, resilient systems, and continuous learning, with a strong passion for low-level performance and modern web tooling.</p>
 
 ###
 
@@ -49,21 +53,20 @@
   <a href="https://x.com/SamSyntax_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="https://samsyntax.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=itch&label=&color=#ff6900&logoColor=#ff6900&labelColor=#ff6900&style=for-the-badge" height="25" alt="itch logo"  />
+  </a>
 </div>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=SamSyntax&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/snake-output/snake.svg" alt="Snake animation" />
 
 ###
