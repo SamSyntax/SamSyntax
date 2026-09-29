@@ -54,14 +54,13 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://samsyntax.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=itch&label=&color=#ff6900&logoColor=#ff6900&labelColor=#ff6900&style=for-the-badge" height="25" alt="itch logo"  />
-  </a>
+<img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" style="border-radius: 6px;" alt="website logo" />  </a>
 </div>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/SamSyntax/SamSyntax/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
